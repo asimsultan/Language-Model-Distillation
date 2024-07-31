@@ -1,0 +1,7 @@
+
+text,label
+"This is a positive example.",1
+"This is a negative example.",0
+"This text is neutral.",2
+"Another positive text.",1
+"A neutral statement here.",2
